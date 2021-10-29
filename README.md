@@ -12,6 +12,6 @@
 
 ![](./PNG/04_image.png)
 
-![](./PNG/05_rinputpng)
+![](./PNG/05_input.png)
 
 ![](./PNG/anatomy_of_degauss_command.png)
