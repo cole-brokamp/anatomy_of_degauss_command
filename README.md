@@ -2,6 +2,6 @@
 
 ![](./PNG/command.png)
 
-![](./PNG/command_color.png)
+![](./PNG/command_colored.png)
 
-![](./PNG/command_color_descriptions.png)
+![](./PNG/command_colored_descriptions.png)
